@@ -28,7 +28,7 @@ class MenuDrawer extends StatelessWidget {
               UserAccountsDrawerHeader(
                 currentAccountPicture: CircleAvatar(
                   backgroundImage:
-                      AssetImage('assets/images/default-avatar.png'),
+                      AssetImage('assets/drivericon/default-avatar.png'),
                   backgroundColor:AppColors.kPrimaryColor ,
 
 

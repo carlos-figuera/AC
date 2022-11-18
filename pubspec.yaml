@@ -51,6 +51,4 @@ flutter:
 
   assets:
     - assets/data/
-    - assets/images/
-    - assets/icons/
     - assets/drivericon/
