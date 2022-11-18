@@ -1,0 +1,3693 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "idParent": null,
+      "idCode": null,
+      "name": "AFGANISTAN",
+      "type": "country"
+    },
+    {
+      "id": "2",
+      "idParent": null,
+      "idCode": null,
+      "name": "ALBANIA",
+      "type": "country"
+    },
+    {
+      "id": "3",
+      "idParent": null,
+      "idCode": null,
+      "name": "ANTARTIDA",
+      "type": "country"
+    },
+    {
+      "id": "4",
+      "idParent": null,
+      "idCode": null,
+      "name": "ARGELIA",
+      "type": "country"
+    },
+    {
+      "id": "5",
+      "idParent": null,
+      "idCode": null,
+      "name": "SAMOA AMERICANA",
+      "type": "country"
+    },
+    {
+      "id": "6",
+      "idParent": null,
+      "idCode": null,
+      "name": "ANDORRA",
+      "type": "country"
+    },
+    {
+      "id": "7",
+      "idParent": null,
+      "idCode": null,
+      "name": "ANGOLA",
+      "type": "country"
+    },
+    {
+      "id": "8",
+      "idParent": null,
+      "idCode": null,
+      "name": "ANTIGUA Y BARBUDA",
+      "type": "country"
+    },
+    {
+      "id": "9",
+      "idParent": null,
+      "idCode": null,
+      "name": "AZERBAIYAN",
+      "type": "country"
+    },
+    {
+      "id": "10",
+      "idParent": null,
+      "idCode": null,
+      "name": "ARGENTINA",
+      "type": "country"
+    },
+    {
+      "id": "11",
+      "idParent": null,
+      "idCode": null,
+      "name": "AUSTRALIA",
+      "type": "country"
+    },
+    {
+      "id": "12",
+      "idParent": null,
+      "idCode": null,
+      "name": "AUSTRIA",
+      "type": "country"
+    },
+    {
+      "id": "13",
+      "idParent": null,
+      "idCode": null,
+      "name": "BAHAMAS",
+      "type": "country"
+    },
+    {
+      "id": "14",
+      "idParent": null,
+      "idCode": null,
+      "name": "BAREIN",
+      "type": "country"
+    },
+    {
+      "id": "15",
+      "idParent": null,
+      "idCode": null,
+      "name": "BANGLADES",
+      "type": "country"
+    },
+    {
+      "id": "16",
+      "idParent": null,
+      "idCode": null,
+      "name": "ARMENIA",
+      "type": "country"
+    },
+    {
+      "id": "17",
+      "idParent": null,
+      "idCode": null,
+      "name": "BARBADOS",
+      "type": "country"
+    },
+    {
+      "id": "18",
+      "idParent": null,
+      "idCode": null,
+      "name": "BELGICA",
+      "type": "country"
+    },
+    {
+      "id": "19",
+      "idParent": null,
+      "idCode": null,
+      "name": "BERMUDAS",
+      "type": "country"
+    },
+    {
+      "id": "20",
+      "idParent": null,
+      "idCode": null,
+      "name": "BUTAN",
+      "type": "country"
+    },
+    {
+      "id": "21",
+      "idParent": null,
+      "idCode": null,
+      "name": "BOLIVIA, ESTADO PLURINACIONAL ",
+      "type": "country"
+    },
+    {
+      "id": "22",
+      "idParent": null,
+      "idCode": null,
+      "name": "BOSNIA Y HERZEGOVINA",
+      "type": "country"
+    },
+    {
+      "id": "23",
+      "idParent": null,
+      "idCode": null,
+      "name": "BOTSUANA",
+      "type": "country"
+    },
+    {
+      "id": "24",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLA BOUVET",
+      "type": "country"
+    },
+    {
+      "id": "25",
+      "idParent": null,
+      "idCode": null,
+      "name": "BRASIL",
+      "type": "country"
+    },
+    {
+      "id": "26",
+      "idParent": null,
+      "idCode": null,
+      "name": "BELICE",
+      "type": "country"
+    },
+    {
+      "id": "27",
+      "idParent": null,
+      "idCode": null,
+      "name": "TERRITORIO BRITANICO DEL OCEAN",
+      "type": "country"
+    },
+    {
+      "id": "28",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS SALOMON",
+      "type": "country"
+    },
+    {
+      "id": "29",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS VIRGENES BRITANICAS",
+      "type": "country"
+    },
+    {
+      "id": "30",
+      "idParent": null,
+      "idCode": null,
+      "name": "BRUNEI DARUSSALAM",
+      "type": "country"
+    },
+    {
+      "id": "31",
+      "idParent": null,
+      "idCode": null,
+      "name": "BULGARIA",
+      "type": "country"
+    },
+    {
+      "id": "32",
+      "idParent": null,
+      "idCode": null,
+      "name": "MYANMAR (BIRMANIA)",
+      "type": "country"
+    },
+    {
+      "id": "33",
+      "idParent": null,
+      "idCode": null,
+      "name": "BURUNDI",
+      "type": "country"
+    },
+    {
+      "id": "34",
+      "idParent": null,
+      "idCode": null,
+      "name": "BIELORRUSIA",
+      "type": "country"
+    },
+    {
+      "id": "35",
+      "idParent": null,
+      "idCode": null,
+      "name": "CAMBOYA",
+      "type": "country"
+    },
+    {
+      "id": "36",
+      "idParent": null,
+      "idCode": null,
+      "name": "CAMERUN",
+      "type": "country"
+    },
+    {
+      "id": "37",
+      "idParent": null,
+      "idCode": null,
+      "name": "CANADA",
+      "type": "country"
+    },
+    {
+      "id": "38",
+      "idParent": null,
+      "idCode": null,
+      "name": "CABO VERDE",
+      "type": "country"
+    },
+    {
+      "id": "39",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS CAIMAN",
+      "type": "country"
+    },
+    {
+      "id": "40",
+      "idParent": null,
+      "idCode": null,
+      "name": "REPUBLICA CENTROAFRICANA",
+      "type": "country"
+    },
+    {
+      "id": "41",
+      "idParent": null,
+      "idCode": null,
+      "name": "SRI LANKA",
+      "type": "country"
+    },
+    {
+      "id": "42",
+      "idParent": null,
+      "idCode": null,
+      "name": "CHAD",
+      "type": "country"
+    },
+    {
+      "id": "43",
+      "idParent": null,
+      "idCode": null,
+      "name": "CHILE",
+      "type": "country"
+    },
+    {
+      "id": "44",
+      "idParent": null,
+      "idCode": null,
+      "name": "CHINA, REPUBLICA POPULAR",
+      "type": "country"
+    },
+    {
+      "id": "45",
+      "idParent": null,
+      "idCode": null,
+      "name": "TAIWAN, PROVINCIA DE CHINA",
+      "type": "country"
+    },
+    {
+      "id": "46",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLA DE NAVIDAD",
+      "type": "country"
+    },
+    {
+      "id": "47",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS COCOS (KEELING)",
+      "type": "country"
+    },
+    {
+      "id": "48",
+      "idParent": null,
+      "idCode": null,
+      "name": "COLOMBIA",
+      "type": "country"
+    },
+    {
+      "id": "49",
+      "idParent": null,
+      "idCode": null,
+      "name": "COMORAS",
+      "type": "country"
+    },
+    {
+      "id": "50",
+      "idParent": null,
+      "idCode": null,
+      "name": "MAYOTTE",
+      "type": "country"
+    },
+    {
+      "id": "51",
+      "idParent": null,
+      "idCode": null,
+      "name": "CONGO",
+      "type": "country"
+    },
+    {
+      "id": "52",
+      "idParent": null,
+      "idCode": null,
+      "name": "CONGO, LA REPUBLICA DEMOCRATIC",
+      "type": "country"
+    },
+    {
+      "id": "53",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS COOK",
+      "type": "country"
+    },
+    {
+      "id": "54",
+      "idParent": null,
+      "idCode": null,
+      "name": "COSTA RICA",
+      "type": "country"
+    },
+    {
+      "id": "55",
+      "idParent": null,
+      "idCode": null,
+      "name": "CROACIA",
+      "type": "country"
+    },
+    {
+      "id": "56",
+      "idParent": null,
+      "idCode": null,
+      "name": "CUBA",
+      "type": "country"
+    },
+    {
+      "id": "57",
+      "idParent": null,
+      "idCode": null,
+      "name": "CHIPRE",
+      "type": "country"
+    },
+    {
+      "id": "58",
+      "idParent": null,
+      "idCode": null,
+      "name": "REPUBLICA CHECA",
+      "type": "country"
+    },
+    {
+      "id": "59",
+      "idParent": null,
+      "idCode": null,
+      "name": "BENIN",
+      "type": "country"
+    },
+    {
+      "id": "60",
+      "idParent": null,
+      "idCode": null,
+      "name": "DINAMARCA",
+      "type": "country"
+    },
+    {
+      "id": "61",
+      "idParent": null,
+      "idCode": null,
+      "name": "DOMINICA",
+      "type": "country"
+    },
+    {
+      "id": "62",
+      "idParent": null,
+      "idCode": null,
+      "name": "REPUBLICA DOMINICANA",
+      "type": "country"
+    },
+    {
+      "id": "63",
+      "idParent": null,
+      "idCode": null,
+      "name": "ECUADOR",
+      "type": "country"
+    },
+    {
+      "id": "64",
+      "idParent": null,
+      "idCode": null,
+      "name": "EL SALVADOR",
+      "type": "country"
+    },
+    {
+      "id": "65",
+      "idParent": null,
+      "idCode": null,
+      "name": "GUINEA ECUATORIAL",
+      "type": "country"
+    },
+    {
+      "id": "66",
+      "idParent": null,
+      "idCode": null,
+      "name": "ETIOPIA",
+      "type": "country"
+    },
+    {
+      "id": "67",
+      "idParent": null,
+      "idCode": null,
+      "name": "ERITREA",
+      "type": "country"
+    },
+    {
+      "id": "68",
+      "idParent": null,
+      "idCode": null,
+      "name": "ESTONIA",
+      "type": "country"
+    },
+    {
+      "id": "69",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS FEROE",
+      "type": "country"
+    },
+    {
+      "id": "70",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS FALKLAND (MALVINAS)",
+      "type": "country"
+    },
+    {
+      "id": "71",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS GEORGIAS DEL SUR Y SANDW",
+      "type": "country"
+    },
+    {
+      "id": "72",
+      "idParent": null,
+      "idCode": null,
+      "name": "FIYI",
+      "type": "country"
+    },
+    {
+      "id": "73",
+      "idParent": null,
+      "idCode": null,
+      "name": "FINLANDIA",
+      "type": "country"
+    },
+    {
+      "id": "74",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS ÅLAND",
+      "type": "country"
+    },
+    {
+      "id": "75",
+      "idParent": null,
+      "idCode": null,
+      "name": "FRANCE, METROPOLITAN",
+      "type": "country"
+    },
+    {
+      "id": "76",
+      "idParent": null,
+      "idCode": null,
+      "name": "FRANCIA",
+      "type": "country"
+    },
+    {
+      "id": "77",
+      "idParent": null,
+      "idCode": null,
+      "name": "GUAYANA FRANCESA",
+      "type": "country"
+    },
+    {
+      "id": "78",
+      "idParent": null,
+      "idCode": null,
+      "name": "POLINESIA FRANCESA",
+      "type": "country"
+    },
+    {
+      "id": "79",
+      "idParent": null,
+      "idCode": null,
+      "name": "TERRITORIOS AUSTRALES FRANCESE",
+      "type": "country"
+    },
+    {
+      "id": "80",
+      "idParent": null,
+      "idCode": null,
+      "name": "YIBUTI",
+      "type": "country"
+    },
+    {
+      "id": "81",
+      "idParent": null,
+      "idCode": null,
+      "name": "GABON",
+      "type": "country"
+    },
+    {
+      "id": "82",
+      "idParent": null,
+      "idCode": null,
+      "name": "GEORGIA",
+      "type": "country"
+    },
+    {
+      "id": "83",
+      "idParent": null,
+      "idCode": null,
+      "name": "GAMBIA",
+      "type": "country"
+    },
+    {
+      "id": "84",
+      "idParent": null,
+      "idCode": null,
+      "name": "PALESTINA, ESTADO DE",
+      "type": "country"
+    },
+    {
+      "id": "85",
+      "idParent": null,
+      "idCode": null,
+      "name": "ALEMANIA",
+      "type": "country"
+    },
+    {
+      "id": "86",
+      "idParent": null,
+      "idCode": null,
+      "name": "GHANA",
+      "type": "country"
+    },
+    {
+      "id": "87",
+      "idParent": null,
+      "idCode": null,
+      "name": "GIBRALTAR",
+      "type": "country"
+    },
+    {
+      "id": "88",
+      "idParent": null,
+      "idCode": null,
+      "name": "KIRIBATI",
+      "type": "country"
+    },
+    {
+      "id": "89",
+      "idParent": null,
+      "idCode": null,
+      "name": "GRECIA",
+      "type": "country"
+    },
+    {
+      "id": "90",
+      "idParent": null,
+      "idCode": null,
+      "name": "GROENLANDIA",
+      "type": "country"
+    },
+    {
+      "id": "91",
+      "idParent": null,
+      "idCode": null,
+      "name": "GRANADA",
+      "type": "country"
+    },
+    {
+      "id": "92",
+      "idParent": null,
+      "idCode": null,
+      "name": "GUADALUPE",
+      "type": "country"
+    },
+    {
+      "id": "93",
+      "idParent": null,
+      "idCode": null,
+      "name": "GUAM",
+      "type": "country"
+    },
+    {
+      "id": "94",
+      "idParent": null,
+      "idCode": null,
+      "name": "GUATEMALA",
+      "type": "country"
+    },
+    {
+      "id": "95",
+      "idParent": null,
+      "idCode": null,
+      "name": "GUINEA",
+      "type": "country"
+    },
+    {
+      "id": "96",
+      "idParent": null,
+      "idCode": null,
+      "name": "GUYANA",
+      "type": "country"
+    },
+    {
+      "id": "97",
+      "idParent": null,
+      "idCode": null,
+      "name": "HAITI",
+      "type": "country"
+    },
+    {
+      "id": "98",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS HEARD Y MCDONALD",
+      "type": "country"
+    },
+    {
+      "id": "99",
+      "idParent": null,
+      "idCode": null,
+      "name": "CIUDAD DEL VATICANO, SANTA SED",
+      "type": "country"
+    },
+    {
+      "id": "100",
+      "idParent": null,
+      "idCode": null,
+      "name": "HONDURAS",
+      "type": "country"
+    },
+    {
+      "id": "101",
+      "idParent": null,
+      "idCode": null,
+      "name": "HONG KONG",
+      "type": "country"
+    },
+    {
+      "id": "102",
+      "idParent": null,
+      "idCode": null,
+      "name": "HUNGRIA",
+      "type": "country"
+    },
+    {
+      "id": "103",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLANDIA",
+      "type": "country"
+    },
+    {
+      "id": "104",
+      "idParent": null,
+      "idCode": null,
+      "name": "INDIA",
+      "type": "country"
+    },
+    {
+      "id": "105",
+      "idParent": null,
+      "idCode": null,
+      "name": "INDONESIA",
+      "type": "country"
+    },
+    {
+      "id": "106",
+      "idParent": null,
+      "idCode": null,
+      "name": "IRAN, REPUBLICA ISLAMICA DE",
+      "type": "country"
+    },
+    {
+      "id": "107",
+      "idParent": null,
+      "idCode": null,
+      "name": "IRAK",
+      "type": "country"
+    },
+    {
+      "id": "108",
+      "idParent": null,
+      "idCode": null,
+      "name": "IRLANDA",
+      "type": "country"
+    },
+    {
+      "id": "109",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISRAEL",
+      "type": "country"
+    },
+    {
+      "id": "110",
+      "idParent": null,
+      "idCode": null,
+      "name": "ITALIA",
+      "type": "country"
+    },
+    {
+      "id": "111",
+      "idParent": null,
+      "idCode": null,
+      "name": "COSTA DE MARFIL",
+      "type": "country"
+    },
+    {
+      "id": "112",
+      "idParent": null,
+      "idCode": null,
+      "name": "JAMAICA",
+      "type": "country"
+    },
+    {
+      "id": "113",
+      "idParent": null,
+      "idCode": null,
+      "name": "JAPON",
+      "type": "country"
+    },
+    {
+      "id": "114",
+      "idParent": null,
+      "idCode": null,
+      "name": "KAZAJISTAN",
+      "type": "country"
+    },
+    {
+      "id": "115",
+      "idParent": null,
+      "idCode": null,
+      "name": "JORDANIA",
+      "type": "country"
+    },
+    {
+      "id": "116",
+      "idParent": null,
+      "idCode": null,
+      "name": "KENIA",
+      "type": "country"
+    },
+    {
+      "id": "117",
+      "idParent": null,
+      "idCode": null,
+      "name": "COREA, REPUBLICA DEMOCRATICA P",
+      "type": "country"
+    },
+    {
+      "id": "118",
+      "idParent": null,
+      "idCode": null,
+      "name": "COREA, REPUBLICA DE",
+      "type": "country"
+    },
+    {
+      "id": "119",
+      "idParent": null,
+      "idCode": null,
+      "name": "KUWAIT",
+      "type": "country"
+    },
+    {
+      "id": "120",
+      "idParent": null,
+      "idCode": null,
+      "name": "KIRGUISTAN",
+      "type": "country"
+    },
+    {
+      "id": "121",
+      "idParent": null,
+      "idCode": null,
+      "name": "LAOS, REPUBLICA DEMOCRATICA PO",
+      "type": "country"
+    },
+    {
+      "id": "122",
+      "idParent": null,
+      "idCode": null,
+      "name": "LIBANO",
+      "type": "country"
+    },
+    {
+      "id": "123",
+      "idParent": null,
+      "idCode": null,
+      "name": "LESOTO",
+      "type": "country"
+    },
+    {
+      "id": "124",
+      "idParent": null,
+      "idCode": null,
+      "name": "LETONIA",
+      "type": "country"
+    },
+    {
+      "id": "125",
+      "idParent": null,
+      "idCode": null,
+      "name": "LIBERIA",
+      "type": "country"
+    },
+    {
+      "id": "126",
+      "idParent": null,
+      "idCode": null,
+      "name": "LIBIA",
+      "type": "country"
+    },
+    {
+      "id": "127",
+      "idParent": null,
+      "idCode": null,
+      "name": "LIECHTENSTEIN",
+      "type": "country"
+    },
+    {
+      "id": "128",
+      "idParent": null,
+      "idCode": null,
+      "name": "LITUANIA",
+      "type": "country"
+    },
+    {
+      "id": "129",
+      "idParent": null,
+      "idCode": null,
+      "name": "LUXEMBURGO",
+      "type": "country"
+    },
+    {
+      "id": "130",
+      "idParent": null,
+      "idCode": null,
+      "name": "MACAO",
+      "type": "country"
+    },
+    {
+      "id": "131",
+      "idParent": null,
+      "idCode": null,
+      "name": "MADAGASCAR",
+      "type": "country"
+    },
+    {
+      "id": "132",
+      "idParent": null,
+      "idCode": null,
+      "name": "MALAUI",
+      "type": "country"
+    },
+    {
+      "id": "133",
+      "idParent": null,
+      "idCode": null,
+      "name": "MALASIA",
+      "type": "country"
+    },
+    {
+      "id": "134",
+      "idParent": null,
+      "idCode": null,
+      "name": "MALDIVAS",
+      "type": "country"
+    },
+    {
+      "id": "135",
+      "idParent": null,
+      "idCode": null,
+      "name": "MALI",
+      "type": "country"
+    },
+    {
+      "id": "136",
+      "idParent": null,
+      "idCode": null,
+      "name": "MALTA",
+      "type": "country"
+    },
+    {
+      "id": "137",
+      "idParent": null,
+      "idCode": null,
+      "name": "MARTINICA",
+      "type": "country"
+    },
+    {
+      "id": "138",
+      "idParent": null,
+      "idCode": null,
+      "name": "MAURITANIA",
+      "type": "country"
+    },
+    {
+      "id": "139",
+      "idParent": null,
+      "idCode": null,
+      "name": "MAURICIO",
+      "type": "country"
+    },
+    {
+      "id": "140",
+      "idParent": null,
+      "idCode": null,
+      "name": "MEXICO",
+      "type": "country"
+    },
+    {
+      "id": "141",
+      "idParent": null,
+      "idCode": null,
+      "name": "MONACO",
+      "type": "country"
+    },
+    {
+      "id": "142",
+      "idParent": null,
+      "idCode": null,
+      "name": "MONGOLIA",
+      "type": "country"
+    },
+    {
+      "id": "143",
+      "idParent": null,
+      "idCode": null,
+      "name": "MOLDAVIA, REPUBLICA DE",
+      "type": "country"
+    },
+    {
+      "id": "144",
+      "idParent": null,
+      "idCode": null,
+      "name": "MONTENEGRO",
+      "type": "country"
+    },
+    {
+      "id": "145",
+      "idParent": null,
+      "idCode": null,
+      "name": "MONTSERRAT",
+      "type": "country"
+    },
+    {
+      "id": "146",
+      "idParent": null,
+      "idCode": null,
+      "name": "MARRUECOS",
+      "type": "country"
+    },
+    {
+      "id": "147",
+      "idParent": null,
+      "idCode": null,
+      "name": "MOZAMBIQUE",
+      "type": "country"
+    },
+    {
+      "id": "148",
+      "idParent": null,
+      "idCode": null,
+      "name": "OMAN",
+      "type": "country"
+    },
+    {
+      "id": "149",
+      "idParent": null,
+      "idCode": null,
+      "name": "NABIMIA",
+      "type": "country"
+    },
+    {
+      "id": "150",
+      "idParent": null,
+      "idCode": null,
+      "name": "NAURU",
+      "type": "country"
+    },
+    {
+      "id": "151",
+      "idParent": null,
+      "idCode": null,
+      "name": "NEPAL",
+      "type": "country"
+    },
+    {
+      "id": "152",
+      "idParent": null,
+      "idCode": null,
+      "name": "PAISES BAJOS",
+      "type": "country"
+    },
+    {
+      "id": "153",
+      "idParent": null,
+      "idCode": null,
+      "name": "CURAZAO",
+      "type": "country"
+    },
+    {
+      "id": "154",
+      "idParent": null,
+      "idCode": null,
+      "name": "ARUBA",
+      "type": "country"
+    },
+    {
+      "id": "155",
+      "idParent": null,
+      "idCode": null,
+      "name": "SINT MAARTEN (PARTE NEERLANDES",
+      "type": "country"
+    },
+    {
+      "id": "156",
+      "idParent": null,
+      "idCode": null,
+      "name": "BONAIRE, SAN EUSTAQUIO Y SABA",
+      "type": "country"
+    },
+    {
+      "id": "157",
+      "idParent": null,
+      "idCode": null,
+      "name": "NUEVA CALEDONIA",
+      "type": "country"
+    },
+    {
+      "id": "158",
+      "idParent": null,
+      "idCode": null,
+      "name": "VANUATU",
+      "type": "country"
+    },
+    {
+      "id": "159",
+      "idParent": null,
+      "idCode": null,
+      "name": "NUEVA ZELANDA",
+      "type": "country"
+    },
+    {
+      "id": "160",
+      "idParent": null,
+      "idCode": null,
+      "name": "NICARAGUA",
+      "type": "country"
+    },
+    {
+      "id": "161",
+      "idParent": null,
+      "idCode": null,
+      "name": "NIGER",
+      "type": "country"
+    },
+    {
+      "id": "162",
+      "idParent": null,
+      "idCode": null,
+      "name": "NIGERIA",
+      "type": "country"
+    },
+    {
+      "id": "163",
+      "idParent": null,
+      "idCode": null,
+      "name": "NIUE",
+      "type": "country"
+    },
+    {
+      "id": "164",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLA NORFOLK",
+      "type": "country"
+    },
+    {
+      "id": "165",
+      "idParent": null,
+      "idCode": null,
+      "name": "NORUEGA",
+      "type": "country"
+    },
+    {
+      "id": "166",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS MARIANAS DEL NORTE",
+      "type": "country"
+    },
+    {
+      "id": "167",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS ULTRAMARINAS MENORES DE ",
+      "type": "country"
+    },
+    {
+      "id": "168",
+      "idParent": null,
+      "idCode": null,
+      "name": "MICRONESIA, ESTADOS FEDERADOS ",
+      "type": "country"
+    },
+    {
+      "id": "169",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS MARSHALL",
+      "type": "country"
+    },
+    {
+      "id": "170",
+      "idParent": null,
+      "idCode": null,
+      "name": "PALAOS",
+      "type": "country"
+    },
+    {
+      "id": "171",
+      "idParent": null,
+      "idCode": null,
+      "name": "PAKISTAN",
+      "type": "country"
+    },
+    {
+      "id": "172",
+      "idParent": null,
+      "idCode": null,
+      "name": "PANAMA",
+      "type": "country"
+    },
+    {
+      "id": "173",
+      "idParent": null,
+      "idCode": null,
+      "name": "PAPUA NUEVA GUINEA",
+      "type": "country"
+    },
+    {
+      "id": "174",
+      "idParent": null,
+      "idCode": null,
+      "name": "PARAGUAY",
+      "type": "country"
+    },
+    {
+      "id": "175",
+      "idParent": null,
+      "idCode": null,
+      "name": "PERU",
+      "type": "country"
+    },
+    {
+      "id": "176",
+      "idParent": null,
+      "idCode": null,
+      "name": "FILIPINAS",
+      "type": "country"
+    },
+    {
+      "id": "177",
+      "idParent": null,
+      "idCode": null,
+      "name": "PITCAIRN",
+      "type": "country"
+    },
+    {
+      "id": "178",
+      "idParent": null,
+      "idCode": null,
+      "name": "POLONIA",
+      "type": "country"
+    },
+    {
+      "id": "179",
+      "idParent": null,
+      "idCode": null,
+      "name": "PORTUGAL",
+      "type": "country"
+    },
+    {
+      "id": "180",
+      "idParent": null,
+      "idCode": null,
+      "name": "GUINEA-BISAU",
+      "type": "country"
+    },
+    {
+      "id": "181",
+      "idParent": null,
+      "idCode": null,
+      "name": "TIMOR-LESTE",
+      "type": "country"
+    },
+    {
+      "id": "182",
+      "idParent": null,
+      "idCode": null,
+      "name": "PUERTO RICO",
+      "type": "country"
+    },
+    {
+      "id": "183",
+      "idParent": null,
+      "idCode": null,
+      "name": "QATAR",
+      "type": "country"
+    },
+    {
+      "id": "184",
+      "idParent": null,
+      "idCode": null,
+      "name": "REUNION",
+      "type": "country"
+    },
+    {
+      "id": "185",
+      "idParent": null,
+      "idCode": null,
+      "name": "RUMANIA",
+      "type": "country"
+    },
+    {
+      "id": "186",
+      "idParent": null,
+      "idCode": null,
+      "name": "RUSIA, FEDERACION RUSA",
+      "type": "country"
+    },
+    {
+      "id": "187",
+      "idParent": null,
+      "idCode": null,
+      "name": "RUANDA",
+      "type": "country"
+    },
+    {
+      "id": "188",
+      "idParent": null,
+      "idCode": null,
+      "name": "SAN BARTOLOME",
+      "type": "country"
+    },
+    {
+      "id": "189",
+      "idParent": null,
+      "idCode": null,
+      "name": "SANTA HELENA, ASCENSION Y TRIS",
+      "type": "country"
+    },
+    {
+      "id": "190",
+      "idParent": null,
+      "idCode": null,
+      "name": "SAN CRISTOBAL Y NIEVES",
+      "type": "country"
+    },
+    {
+      "id": "191",
+      "idParent": null,
+      "idCode": null,
+      "name": "ANGUILA",
+      "type": "country"
+    },
+    {
+      "id": "192",
+      "idParent": null,
+      "idCode": null,
+      "name": "SANTA LUCIA",
+      "type": "country"
+    },
+    {
+      "id": "193",
+      "idParent": null,
+      "idCode": null,
+      "name": "SAN MARTIN (PARTE FRANCESA)",
+      "type": "country"
+    },
+    {
+      "id": "194",
+      "idParent": null,
+      "idCode": null,
+      "name": "SAN PEDRO Y MIQUELON",
+      "type": "country"
+    },
+    {
+      "id": "195",
+      "idParent": null,
+      "idCode": null,
+      "name": "SAN VICENTE Y LAS GRANADINAS",
+      "type": "country"
+    },
+    {
+      "id": "196",
+      "idParent": null,
+      "idCode": null,
+      "name": "SAN MARINO",
+      "type": "country"
+    },
+    {
+      "id": "197",
+      "idParent": null,
+      "idCode": null,
+      "name": "SANTO TOME Y PRINCIPE",
+      "type": "country"
+    },
+    {
+      "id": "198",
+      "idParent": null,
+      "idCode": null,
+      "name": "ARABIA SAUDITA",
+      "type": "country"
+    },
+    {
+      "id": "199",
+      "idParent": null,
+      "idCode": null,
+      "name": "SENEGAL",
+      "type": "country"
+    },
+    {
+      "id": "200",
+      "idParent": null,
+      "idCode": null,
+      "name": "SERBIA",
+      "type": "country"
+    },
+    {
+      "id": "201",
+      "idParent": null,
+      "idCode": null,
+      "name": "SEYCHELLES",
+      "type": "country"
+    },
+    {
+      "id": "202",
+      "idParent": null,
+      "idCode": null,
+      "name": "SIERRA LEONA",
+      "type": "country"
+    },
+    {
+      "id": "203",
+      "idParent": null,
+      "idCode": null,
+      "name": "SINGAPUR",
+      "type": "country"
+    },
+    {
+      "id": "204",
+      "idParent": null,
+      "idCode": null,
+      "name": "ESLOVAQUIA",
+      "type": "country"
+    },
+    {
+      "id": "205",
+      "idParent": null,
+      "idCode": null,
+      "name": "VIET NAM",
+      "type": "country"
+    },
+    {
+      "id": "206",
+      "idParent": null,
+      "idCode": null,
+      "name": "ESLOVENIA",
+      "type": "country"
+    },
+    {
+      "id": "207",
+      "idParent": null,
+      "idCode": null,
+      "name": "SOMALIA",
+      "type": "country"
+    },
+    {
+      "id": "208",
+      "idParent": null,
+      "idCode": null,
+      "name": "SUDAFRICA",
+      "type": "country"
+    },
+    {
+      "id": "209",
+      "idParent": null,
+      "idCode": null,
+      "name": "ZIMBABUE",
+      "type": "country"
+    },
+    {
+      "id": "210",
+      "idParent": null,
+      "idCode": null,
+      "name": "ESPAÑA",
+      "type": "country"
+    },
+    {
+      "id": "211",
+      "idParent": null,
+      "idCode": null,
+      "name": "SUDAN DEL SUR",
+      "type": "country"
+    },
+    {
+      "id": "212",
+      "idParent": null,
+      "idCode": null,
+      "name": "SUDAN",
+      "type": "country"
+    },
+    {
+      "id": "213",
+      "idParent": null,
+      "idCode": null,
+      "name": "SAHARA OCCIDENTAL",
+      "type": "country"
+    },
+    {
+      "id": "214",
+      "idParent": null,
+      "idCode": null,
+      "name": "SURINAM",
+      "type": "country"
+    },
+    {
+      "id": "215",
+      "idParent": null,
+      "idCode": null,
+      "name": "SVALBARD Y JAN MAYEN",
+      "type": "country"
+    },
+    {
+      "id": "216",
+      "idParent": null,
+      "idCode": null,
+      "name": "SUAZILANDIA",
+      "type": "country"
+    },
+    {
+      "id": "217",
+      "idParent": null,
+      "idCode": null,
+      "name": "SUECIA",
+      "type": "country"
+    },
+    {
+      "id": "218",
+      "idParent": null,
+      "idCode": null,
+      "name": "SUIZA",
+      "type": "country"
+    },
+    {
+      "id": "219",
+      "idParent": null,
+      "idCode": null,
+      "name": "REPUBLICA ARABE DE SIRIA",
+      "type": "country"
+    },
+    {
+      "id": "220",
+      "idParent": null,
+      "idCode": null,
+      "name": "TAYIKISTAN",
+      "type": "country"
+    },
+    {
+      "id": "221",
+      "idParent": null,
+      "idCode": null,
+      "name": "TAILANDIA",
+      "type": "country"
+    },
+    {
+      "id": "222",
+      "idParent": null,
+      "idCode": null,
+      "name": "TOGO",
+      "type": "country"
+    },
+    {
+      "id": "223",
+      "idParent": null,
+      "idCode": null,
+      "name": "TOKELAU",
+      "type": "country"
+    },
+    {
+      "id": "224",
+      "idParent": null,
+      "idCode": null,
+      "name": "TONGA",
+      "type": "country"
+    },
+    {
+      "id": "225",
+      "idParent": null,
+      "idCode": null,
+      "name": "TRINIDAD Y TOBAGO",
+      "type": "country"
+    },
+    {
+      "id": "226",
+      "idParent": null,
+      "idCode": null,
+      "name": "EMIRATOS ARABES UNIDOS",
+      "type": "country"
+    },
+    {
+      "id": "227",
+      "idParent": null,
+      "idCode": null,
+      "name": "TUNEZ",
+      "type": "country"
+    },
+    {
+      "id": "228",
+      "idParent": null,
+      "idCode": null,
+      "name": "TURQUIA",
+      "type": "country"
+    },
+    {
+      "id": "229",
+      "idParent": null,
+      "idCode": null,
+      "name": "TURKMENISTAN",
+      "type": "country"
+    },
+    {
+      "id": "230",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS TURCAS Y CAICOS",
+      "type": "country"
+    },
+    {
+      "id": "231",
+      "idParent": null,
+      "idCode": null,
+      "name": "TUVALU",
+      "type": "country"
+    },
+    {
+      "id": "232",
+      "idParent": null,
+      "idCode": null,
+      "name": "UGANDA",
+      "type": "country"
+    },
+    {
+      "id": "233",
+      "idParent": null,
+      "idCode": null,
+      "name": "UCRANIA",
+      "type": "country"
+    },
+    {
+      "id": "234",
+      "idParent": null,
+      "idCode": null,
+      "name": "MACEDONIA, LA ANTIGUA REPUBLIC",
+      "type": "country"
+    },
+    {
+      "id": "235",
+      "idParent": null,
+      "idCode": null,
+      "name": "EGIPTO",
+      "type": "country"
+    },
+    {
+      "id": "236",
+      "idParent": null,
+      "idCode": null,
+      "name": "REINO UNIDO",
+      "type": "country"
+    },
+    {
+      "id": "237",
+      "idParent": null,
+      "idCode": null,
+      "name": "GUERNSEY",
+      "type": "country"
+    },
+    {
+      "id": "238",
+      "idParent": null,
+      "idCode": null,
+      "name": "JERSEY",
+      "type": "country"
+    },
+    {
+      "id": "239",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLA DE MAN",
+      "type": "country"
+    },
+    {
+      "id": "240",
+      "idParent": null,
+      "idCode": null,
+      "name": "TANZANIA, REPUBLICA UNIDA DE",
+      "type": "country"
+    },
+    {
+      "id": "241",
+      "idParent": null,
+      "idCode": null,
+      "name": "ESTADOS UNIDOS",
+      "type": "country"
+    },
+    {
+      "id": "242",
+      "idParent": null,
+      "idCode": null,
+      "name": "ISLAS VIRGENES DE LOS ESTADOS ",
+      "type": "country"
+    },
+    {
+      "id": "243",
+      "idParent": null,
+      "idCode": null,
+      "name": "BURKINA FASO",
+      "type": "country"
+    },
+    {
+      "id": "244",
+      "idParent": null,
+      "idCode": null,
+      "name": "URUGUAY",
+      "type": "country"
+    },
+    {
+      "id": "245",
+      "idParent": null,
+      "idCode": null,
+      "name": "UZBEKISTAN",
+      "type": "country"
+    },
+    {
+      "id": "246",
+      "idParent": null,
+      "idCode": null,
+      "name": "VENEZUELA, REPUBLICA BOLIVARIA",
+      "type": "country"
+    },
+    {
+      "id": "247",
+      "idParent": null,
+      "idCode": null,
+      "name": "WALLIS Y FUTUNA",
+      "type": "country"
+    },
+    {
+      "id": "248",
+      "idParent": null,
+      "idCode": null,
+      "name": "SAMOA",
+      "type": "country"
+    },
+    {
+      "id": "249",
+      "idParent": null,
+      "idCode": null,
+      "name": "YEMEN",
+      "type": "country"
+    },
+    {
+      "id": "250",
+      "idParent": null,
+      "idCode": null,
+      "name": "YUGOSLAVIA",
+      "type": "country"
+    },
+    {
+      "id": "251",
+      "idParent": null,
+      "idCode": null,
+      "name": "ZAMBIA",
+      "type": "country"
+    },
+    {
+      "id": "252",
+      "idParent": "64",
+      "idCode": null,
+      "name": "AHUACHAPAN",
+      "type": "province"
+    },
+    {
+      "id": "253",
+      "idParent": "64",
+      "idCode": null,
+      "name": "SANTA ANA",
+      "type": "province"
+    },
+    {
+      "id": "254",
+      "idParent": "64",
+      "idCode": null,
+      "name": "SONSONATE",
+      "type": "province"
+    },
+    {
+      "id": "255",
+      "idParent": "64",
+      "idCode": null,
+      "name": "CHALATENANGO",
+      "type": "province"
+    },
+    {
+      "id": "256",
+      "idParent": "64",
+      "idCode": null,
+      "name": "LA LIBERTAD",
+      "type": "province"
+    },
+    {
+      "id": "257",
+      "idParent": "64",
+      "idCode": null,
+      "name": "SAN SALVADOR",
+      "type": "province"
+    },
+    {
+      "id": "258",
+      "idParent": "64",
+      "idCode": null,
+      "name": "CUSCATLAN",
+      "type": "province"
+    },
+    {
+      "id": "259",
+      "idParent": "64",
+      "idCode": null,
+      "name": "LA PAZ",
+      "type": "province"
+    },
+    {
+      "id": "260",
+      "idParent": "64",
+      "idCode": null,
+      "name": "CABAÑAS",
+      "type": "province"
+    },
+    {
+      "id": "261",
+      "idParent": "64",
+      "idCode": null,
+      "name": "SAN VICENTE",
+      "type": "province"
+    },
+    {
+      "id": "262",
+      "idParent": "64",
+      "idCode": null,
+      "name": "USULUTAN",
+      "type": "province"
+    },
+    {
+      "id": "263",
+      "idParent": "64",
+      "idCode": null,
+      "name": "SAN MIGUEL",
+      "type": "province"
+    },
+    {
+      "id": "264",
+      "idParent": "64",
+      "idCode": null,
+      "name": "MORAZAN",
+      "type": "province"
+    },
+    {
+      "id": "265",
+      "idParent": "64",
+      "idCode": null,
+      "name": "LA UNION",
+      "type": "province"
+    },
+    {
+      "id": "266",
+      "idParent": "252",
+      "idCode": null,
+      "name": "AHUACHAPAN",
+      "type": "city"
+    },
+    {
+      "id": "267",
+      "idParent": "252",
+      "idCode": null,
+      "name": "APANECA",
+      "type": "city"
+    },
+    {
+      "id": "268",
+      "idParent": "252",
+      "idCode": null,
+      "name": "ATIQUIZAYA",
+      "type": "city"
+    },
+    {
+      "id": "269",
+      "idParent": "252",
+      "idCode": null,
+      "name": "CONCEPCION DE ATACO",
+      "type": "city"
+    },
+    {
+      "id": "270",
+      "idParent": "252",
+      "idCode": null,
+      "name": "EL REFUGIO",
+      "type": "city"
+    },
+    {
+      "id": "271",
+      "idParent": "252",
+      "idCode": null,
+      "name": "GUAYMANGO",
+      "type": "city"
+    },
+    {
+      "id": "272",
+      "idParent": "252",
+      "idCode": null,
+      "name": "JUJUTLA",
+      "type": "city"
+    },
+    {
+      "id": "273",
+      "idParent": "252",
+      "idCode": null,
+      "name": "SAN FRANCISCO MENENDEZ",
+      "type": "city"
+    },
+    {
+      "id": "274",
+      "idParent": "252",
+      "idCode": null,
+      "name": "SAN LORENZO",
+      "type": "city"
+    },
+    {
+      "id": "275",
+      "idParent": "252",
+      "idCode": null,
+      "name": "SAN PEDRO PUXTLA",
+      "type": "city"
+    },
+    {
+      "id": "276",
+      "idParent": "252",
+      "idCode": null,
+      "name": "TACUBA",
+      "type": "city"
+    },
+    {
+      "id": "277",
+      "idParent": "252",
+      "idCode": null,
+      "name": "TURIN",
+      "type": "city"
+    },
+    {
+      "id": "278",
+      "idParent": "253",
+      "idCode": null,
+      "name": "CANDELARIA DE LA FRONTERA",
+      "type": "city"
+    },
+    {
+      "id": "279",
+      "idParent": "253",
+      "idCode": null,
+      "name": "COATEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "280",
+      "idParent": "253",
+      "idCode": null,
+      "name": "CHALCHUAPA",
+      "type": "city"
+    },
+    {
+      "id": "281",
+      "idParent": "253",
+      "idCode": null,
+      "name": "EL CONGO",
+      "type": "city"
+    },
+    {
+      "id": "282",
+      "idParent": "253",
+      "idCode": null,
+      "name": "EL PORVENIR",
+      "type": "city"
+    },
+    {
+      "id": "283",
+      "idParent": "253",
+      "idCode": null,
+      "name": "MASAHUAT",
+      "type": "city"
+    },
+    {
+      "id": "284",
+      "idParent": "253",
+      "idCode": null,
+      "name": "METAPAN",
+      "type": "city"
+    },
+    {
+      "id": "285",
+      "idParent": "253",
+      "idCode": null,
+      "name": "SAN ANTONIO PAJONAL",
+      "type": "city"
+    },
+    {
+      "id": "286",
+      "idParent": "253",
+      "idCode": null,
+      "name": "SAN SEBASTIAN SALITRILLO",
+      "type": "city"
+    },
+    {
+      "id": "287",
+      "idParent": "253",
+      "idCode": null,
+      "name": "SANTA ANA",
+      "type": "city"
+    },
+    {
+      "id": "288",
+      "idParent": "253",
+      "idCode": null,
+      "name": "SANTA ROSA GUACHIPILIN",
+      "type": "city"
+    },
+    {
+      "id": "289",
+      "idParent": "253",
+      "idCode": null,
+      "name": "SANTIAGO DE LA FRONTERA",
+      "type": "city"
+    },
+    {
+      "id": "290",
+      "idParent": "253",
+      "idCode": null,
+      "name": "TEXISTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "291",
+      "idParent": "254",
+      "idCode": null,
+      "name": "ACAJUTLA",
+      "type": "city"
+    },
+    {
+      "id": "292",
+      "idParent": "254",
+      "idCode": null,
+      "name": "ARMENIA",
+      "type": "city"
+    },
+    {
+      "id": "293",
+      "idParent": "254",
+      "idCode": null,
+      "name": "CALUCO",
+      "type": "city"
+    },
+    {
+      "id": "294",
+      "idParent": "254",
+      "idCode": null,
+      "name": "CUISNAHUAT",
+      "type": "city"
+    },
+    {
+      "id": "295",
+      "idParent": "254",
+      "idCode": null,
+      "name": "SANTA ISABEL ISHUATAN",
+      "type": "city"
+    },
+    {
+      "id": "296",
+      "idParent": "254",
+      "idCode": null,
+      "name": "IZALCO",
+      "type": "city"
+    },
+    {
+      "id": "297",
+      "idParent": "254",
+      "idCode": null,
+      "name": "JUAYUA",
+      "type": "city"
+    },
+    {
+      "id": "298",
+      "idParent": "254",
+      "idCode": null,
+      "name": "NAHUIZALCO",
+      "type": "city"
+    },
+    {
+      "id": "299",
+      "idParent": "254",
+      "idCode": null,
+      "name": "NAHUILINGO",
+      "type": "city"
+    },
+    {
+      "id": "300",
+      "idParent": "254",
+      "idCode": null,
+      "name": "SALCOATITAN",
+      "type": "city"
+    },
+    {
+      "id": "301",
+      "idParent": "254",
+      "idCode": null,
+      "name": "SAN ANTONIO DEL MONTE",
+      "type": "city"
+    },
+    {
+      "id": "302",
+      "idParent": "254",
+      "idCode": null,
+      "name": "SAN JULIAN",
+      "type": "city"
+    },
+    {
+      "id": "303",
+      "idParent": "254",
+      "idCode": null,
+      "name": "SANTA CATARINA MASAHUAT",
+      "type": "city"
+    },
+    {
+      "id": "304",
+      "idParent": "254",
+      "idCode": null,
+      "name": "SANTO DOMINGO DE GUZMAN",
+      "type": "city"
+    },
+    {
+      "id": "305",
+      "idParent": "254",
+      "idCode": null,
+      "name": "SONSONATE",
+      "type": "city"
+    },
+    {
+      "id": "306",
+      "idParent": "254",
+      "idCode": null,
+      "name": "SONZACATE",
+      "type": "city"
+    },
+    {
+      "id": "307",
+      "idParent": "255",
+      "idCode": null,
+      "name": "AGUA CALIENTE",
+      "type": "city"
+    },
+    {
+      "id": "308",
+      "idParent": "255",
+      "idCode": null,
+      "name": "ARCATAO",
+      "type": "city"
+    },
+    {
+      "id": "309",
+      "idParent": "255",
+      "idCode": null,
+      "name": "AZACUALPA",
+      "type": "city"
+    },
+    {
+      "id": "310",
+      "idParent": "255",
+      "idCode": null,
+      "name": "CITALA",
+      "type": "city"
+    },
+    {
+      "id": "311",
+      "idParent": "255",
+      "idCode": null,
+      "name": "COMALAPA",
+      "type": "city"
+    },
+    {
+      "id": "312",
+      "idParent": "255",
+      "idCode": null,
+      "name": "CONCEPCION QUEZALTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "313",
+      "idParent": "255",
+      "idCode": null,
+      "name": "CHALATENANGO",
+      "type": "city"
+    },
+    {
+      "id": "314",
+      "idParent": "255",
+      "idCode": null,
+      "name": "DULCE NOMBRE DE MARIA",
+      "type": "city"
+    },
+    {
+      "id": "315",
+      "idParent": "255",
+      "idCode": null,
+      "name": "EL CARRIZAL",
+      "type": "city"
+    },
+    {
+      "id": "316",
+      "idParent": "255",
+      "idCode": null,
+      "name": "EL PARAISO",
+      "type": "city"
+    },
+    {
+      "id": "317",
+      "idParent": "255",
+      "idCode": null,
+      "name": "LA LAGUNA",
+      "type": "city"
+    },
+    {
+      "id": "318",
+      "idParent": "255",
+      "idCode": null,
+      "name": "LA PALMA",
+      "type": "city"
+    },
+    {
+      "id": "319",
+      "idParent": "255",
+      "idCode": null,
+      "name": "LA REINA",
+      "type": "city"
+    },
+    {
+      "id": "320",
+      "idParent": "255",
+      "idCode": null,
+      "name": "LAS VUELTAS",
+      "type": "city"
+    },
+    {
+      "id": "321",
+      "idParent": "255",
+      "idCode": null,
+      "name": "NOMBRE DE JESUS",
+      "type": "city"
+    },
+    {
+      "id": "322",
+      "idParent": "255",
+      "idCode": null,
+      "name": "NUEVA CONCEPCION",
+      "type": "city"
+    },
+    {
+      "id": "323",
+      "idParent": "255",
+      "idCode": null,
+      "name": "NUEVA TRINIDAD",
+      "type": "city"
+    },
+    {
+      "id": "324",
+      "idParent": "255",
+      "idCode": null,
+      "name": "OJOS DE AGUA",
+      "type": "city"
+    },
+    {
+      "id": "325",
+      "idParent": "255",
+      "idCode": null,
+      "name": "POTONICO",
+      "type": "city"
+    },
+    {
+      "id": "326",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN ANTONIO DE LA CRUZ",
+      "type": "city"
+    },
+    {
+      "id": "327",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN ANTONIO DE LOS RANCHOS",
+      "type": "city"
+    },
+    {
+      "id": "328",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN FERNANDO",
+      "type": "city"
+    },
+    {
+      "id": "329",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN FRANCISCO LEMPA",
+      "type": "city"
+    },
+    {
+      "id": "330",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN FRANCISCO MORAZAN",
+      "type": "city"
+    },
+    {
+      "id": "331",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN IGNACIO",
+      "type": "city"
+    },
+    {
+      "id": "332",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN ISIDRO LABRADOR",
+      "type": "city"
+    },
+    {
+      "id": "333",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN JOSE CANCASQUE",
+      "type": "city"
+    },
+    {
+      "id": "334",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN JOSE LAS FLORES",
+      "type": "city"
+    },
+    {
+      "id": "335",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN LUIS DEL CARMEN",
+      "type": "city"
+    },
+    {
+      "id": "336",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN MIGUEL DE MERCEDES",
+      "type": "city"
+    },
+    {
+      "id": "337",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SAN RAFAEL",
+      "type": "city"
+    },
+    {
+      "id": "338",
+      "idParent": "255",
+      "idCode": null,
+      "name": "SANTA RITA",
+      "type": "city"
+    },
+    {
+      "id": "339",
+      "idParent": "255",
+      "idCode": null,
+      "name": "TEJUTLA",
+      "type": "city"
+    },
+    {
+      "id": "340",
+      "idParent": "256",
+      "idCode": null,
+      "name": "ANTIGUO CUSCATLAN",
+      "type": "city"
+    },
+    {
+      "id": "341",
+      "idParent": "256",
+      "idCode": null,
+      "name": "CIUDAD ARCE",
+      "type": "city"
+    },
+    {
+      "id": "342",
+      "idParent": "256",
+      "idCode": null,
+      "name": "COLON",
+      "type": "city"
+    },
+    {
+      "id": "343",
+      "idParent": "256",
+      "idCode": null,
+      "name": "COMASAGUA",
+      "type": "city"
+    },
+    {
+      "id": "344",
+      "idParent": "256",
+      "idCode": null,
+      "name": "CHILTIUPAN",
+      "type": "city"
+    },
+    {
+      "id": "345",
+      "idParent": "256",
+      "idCode": null,
+      "name": "HUIZUCAR",
+      "type": "city"
+    },
+    {
+      "id": "346",
+      "idParent": "256",
+      "idCode": null,
+      "name": "JAYAQUE",
+      "type": "city"
+    },
+    {
+      "id": "347",
+      "idParent": "256",
+      "idCode": null,
+      "name": "JICALAPA",
+      "type": "city"
+    },
+    {
+      "id": "348",
+      "idParent": "256",
+      "idCode": null,
+      "name": "LA LIBERTAD",
+      "type": "city"
+    },
+    {
+      "id": "349",
+      "idParent": "256",
+      "idCode": null,
+      "name": "NUEVO CUSCATLAN",
+      "type": "city"
+    },
+    {
+      "id": "350",
+      "idParent": "256",
+      "idCode": null,
+      "name": "SANTA TECLA",
+      "type": "city"
+    },
+    {
+      "id": "351",
+      "idParent": "256",
+      "idCode": null,
+      "name": "QUEZALTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "352",
+      "idParent": "256",
+      "idCode": null,
+      "name": "SACACOYO",
+      "type": "city"
+    },
+    {
+      "id": "353",
+      "idParent": "256",
+      "idCode": null,
+      "name": "SAN JOSE VILLANUEVA",
+      "type": "city"
+    },
+    {
+      "id": "354",
+      "idParent": "256",
+      "idCode": null,
+      "name": "SAN JUAN OPICO",
+      "type": "city"
+    },
+    {
+      "id": "355",
+      "idParent": "256",
+      "idCode": null,
+      "name": "SAN MATIAS",
+      "type": "city"
+    },
+    {
+      "id": "356",
+      "idParent": "256",
+      "idCode": null,
+      "name": "SAN PABLO TACACHICO",
+      "type": "city"
+    },
+    {
+      "id": "357",
+      "idParent": "256",
+      "idCode": null,
+      "name": "TAMANIQUE",
+      "type": "city"
+    },
+    {
+      "id": "358",
+      "idParent": "256",
+      "idCode": null,
+      "name": "TALNIQUE",
+      "type": "city"
+    },
+    {
+      "id": "359",
+      "idParent": "256",
+      "idCode": null,
+      "name": "TEOTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "360",
+      "idParent": "256",
+      "idCode": null,
+      "name": "TEPECOYO",
+      "type": "city"
+    },
+    {
+      "id": "361",
+      "idParent": "256",
+      "idCode": null,
+      "name": "ZARAGOZA",
+      "type": "city"
+    },
+    {
+      "id": "362",
+      "idParent": "257",
+      "idCode": null,
+      "name": "AGUILARES",
+      "type": "city"
+    },
+    {
+      "id": "363",
+      "idParent": "257",
+      "idCode": null,
+      "name": "APOPA",
+      "type": "city"
+    },
+    {
+      "id": "364",
+      "idParent": "257",
+      "idCode": null,
+      "name": "AYUTUXTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "365",
+      "idParent": "257",
+      "idCode": null,
+      "name": "CUSCATANCINGO",
+      "type": "city"
+    },
+    {
+      "id": "366",
+      "idParent": "257",
+      "idCode": null,
+      "name": "EL PAISNAL",
+      "type": "city"
+    },
+    {
+      "id": "367",
+      "idParent": "257",
+      "idCode": null,
+      "name": "GUAZAPA",
+      "type": "city"
+    },
+    {
+      "id": "368",
+      "idParent": "257",
+      "idCode": null,
+      "name": "ILOPANGO",
+      "type": "city"
+    },
+    {
+      "id": "369",
+      "idParent": "257",
+      "idCode": null,
+      "name": "MEJICANOS",
+      "type": "city"
+    },
+    {
+      "id": "370",
+      "idParent": "257",
+      "idCode": null,
+      "name": "NEJAPA",
+      "type": "city"
+    },
+    {
+      "id": "371",
+      "idParent": "257",
+      "idCode": null,
+      "name": "PANCHIMALCO",
+      "type": "city"
+    },
+    {
+      "id": "372",
+      "idParent": "257",
+      "idCode": null,
+      "name": "ROSARIO DE MORA",
+      "type": "city"
+    },
+    {
+      "id": "373",
+      "idParent": "257",
+      "idCode": null,
+      "name": "SAN MARCOS",
+      "type": "city"
+    },
+    {
+      "id": "374",
+      "idParent": "257",
+      "idCode": null,
+      "name": "SAN MARTIN",
+      "type": "city"
+    },
+    {
+      "id": "375",
+      "idParent": "257",
+      "idCode": null,
+      "name": "SAN SALVADOR",
+      "type": "city"
+    },
+    {
+      "id": "376",
+      "idParent": "257",
+      "idCode": null,
+      "name": "SANTIAGO TEXACUANGOS",
+      "type": "city"
+    },
+    {
+      "id": "377",
+      "idParent": "257",
+      "idCode": null,
+      "name": "SANTO TOMAS",
+      "type": "city"
+    },
+    {
+      "id": "378",
+      "idParent": "257",
+      "idCode": null,
+      "name": "SOYAPANGO",
+      "type": "city"
+    },
+    {
+      "id": "379",
+      "idParent": "257",
+      "idCode": null,
+      "name": "TONACATEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "380",
+      "idParent": "257",
+      "idCode": null,
+      "name": "CIUDAD DELGADO",
+      "type": "city"
+    },
+    {
+      "id": "381",
+      "idParent": "258",
+      "idCode": null,
+      "name": "CANDELARIA",
+      "type": "city"
+    },
+    {
+      "id": "382",
+      "idParent": "258",
+      "idCode": null,
+      "name": "COJUTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "383",
+      "idParent": "258",
+      "idCode": null,
+      "name": "EL CARMEN",
+      "type": "city"
+    },
+    {
+      "id": "384",
+      "idParent": "258",
+      "idCode": null,
+      "name": "EL ROSARIO",
+      "type": "city"
+    },
+    {
+      "id": "385",
+      "idParent": "258",
+      "idCode": null,
+      "name": "MONTE SAN JUAN",
+      "type": "city"
+    },
+    {
+      "id": "386",
+      "idParent": "258",
+      "idCode": null,
+      "name": "ORATORIO DE CONCEPCION",
+      "type": "city"
+    },
+    {
+      "id": "387",
+      "idParent": "258",
+      "idCode": null,
+      "name": "SAN BARTOLOME PERULAPIA",
+      "type": "city"
+    },
+    {
+      "id": "388",
+      "idParent": "258",
+      "idCode": null,
+      "name": "SAN CRISTOBAL",
+      "type": "city"
+    },
+    {
+      "id": "389",
+      "idParent": "258",
+      "idCode": null,
+      "name": "SAN JOSE GUAYABAL",
+      "type": "city"
+    },
+    {
+      "id": "390",
+      "idParent": "258",
+      "idCode": null,
+      "name": "SAN PEDRO PERULAPAN",
+      "type": "city"
+    },
+    {
+      "id": "391",
+      "idParent": "258",
+      "idCode": null,
+      "name": "SAN RAFAEL CEDROS",
+      "type": "city"
+    },
+    {
+      "id": "392",
+      "idParent": "258",
+      "idCode": null,
+      "name": "SAN RAMON",
+      "type": "city"
+    },
+    {
+      "id": "393",
+      "idParent": "258",
+      "idCode": null,
+      "name": "SANTA CRUZ ANALQUITO",
+      "type": "city"
+    },
+    {
+      "id": "394",
+      "idParent": "258",
+      "idCode": null,
+      "name": "SANTA CRUZ MICHAPA",
+      "type": "city"
+    },
+    {
+      "id": "395",
+      "idParent": "258",
+      "idCode": null,
+      "name": "SUCHITOTO",
+      "type": "city"
+    },
+    {
+      "id": "396",
+      "idParent": "258",
+      "idCode": null,
+      "name": "TENANCINGO",
+      "type": "city"
+    },
+    {
+      "id": "397",
+      "idParent": "259",
+      "idCode": null,
+      "name": "CUYULTITAN",
+      "type": "city"
+    },
+    {
+      "id": "398",
+      "idParent": "259",
+      "idCode": null,
+      "name": "EL ROSARIO",
+      "type": "city"
+    },
+    {
+      "id": "399",
+      "idParent": "259",
+      "idCode": null,
+      "name": "JERUSALEN",
+      "type": "city"
+    },
+    {
+      "id": "400",
+      "idParent": "259",
+      "idCode": null,
+      "name": "MERCEDES LA CEIBA",
+      "type": "city"
+    },
+    {
+      "id": "401",
+      "idParent": "259",
+      "idCode": null,
+      "name": "OLOCUILTA",
+      "type": "city"
+    },
+    {
+      "id": "402",
+      "idParent": "259",
+      "idCode": null,
+      "name": "PARAISO DE OSORIO",
+      "type": "city"
+    },
+    {
+      "id": "403",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN ANTONIO MASAHUAT",
+      "type": "city"
+    },
+    {
+      "id": "404",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN EMIGDIO",
+      "type": "city"
+    },
+    {
+      "id": "405",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN FRANCISCO CHINAMECA",
+      "type": "city"
+    },
+    {
+      "id": "406",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN JUAN NONUALCO",
+      "type": "city"
+    },
+    {
+      "id": "407",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN JUAN TALPA",
+      "type": "city"
+    },
+    {
+      "id": "408",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN JUAN TEPEZONTES",
+      "type": "city"
+    },
+    {
+      "id": "409",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN LUIS TALPA",
+      "type": "city"
+    },
+    {
+      "id": "410",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN MIGUEL TEPEZONTES",
+      "type": "city"
+    },
+    {
+      "id": "411",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN PEDRO MASAHUAT",
+      "type": "city"
+    },
+    {
+      "id": "412",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN PEDRO NONUALCO",
+      "type": "city"
+    },
+    {
+      "id": "413",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN RAFAEL OBRAJUELO",
+      "type": "city"
+    },
+    {
+      "id": "414",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SANTA MARIA OSTUMA",
+      "type": "city"
+    },
+    {
+      "id": "415",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SANTIAGO NONUALCO",
+      "type": "city"
+    },
+    {
+      "id": "416",
+      "idParent": "259",
+      "idCode": null,
+      "name": "TAPALHUACA",
+      "type": "city"
+    },
+    {
+      "id": "417",
+      "idParent": "259",
+      "idCode": null,
+      "name": "ZACATECOLUCA",
+      "type": "city"
+    },
+    {
+      "id": "418",
+      "idParent": "259",
+      "idCode": null,
+      "name": "SAN LUIS LA HERRADURA",
+      "type": "city"
+    },
+    {
+      "id": "419",
+      "idParent": "260",
+      "idCode": null,
+      "name": "CINQUERA",
+      "type": "city"
+    },
+    {
+      "id": "420",
+      "idParent": "260",
+      "idCode": null,
+      "name": "GUACOTECTI",
+      "type": "city"
+    },
+    {
+      "id": "421",
+      "idParent": "260",
+      "idCode": null,
+      "name": "ILOBASCO",
+      "type": "city"
+    },
+    {
+      "id": "422",
+      "idParent": "260",
+      "idCode": null,
+      "name": "JUTIAPA",
+      "type": "city"
+    },
+    {
+      "id": "423",
+      "idParent": "260",
+      "idCode": null,
+      "name": "SAN ISIDRO",
+      "type": "city"
+    },
+    {
+      "id": "424",
+      "idParent": "260",
+      "idCode": null,
+      "name": "SENSUNTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "425",
+      "idParent": "260",
+      "idCode": null,
+      "name": "TEJUTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "426",
+      "idParent": "260",
+      "idCode": null,
+      "name": "VICTORIA",
+      "type": "city"
+    },
+    {
+      "id": "427",
+      "idParent": "260",
+      "idCode": null,
+      "name": "VILLA DOLORES",
+      "type": "city"
+    },
+    {
+      "id": "428",
+      "idParent": "261",
+      "idCode": null,
+      "name": "APASTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "429",
+      "idParent": "261",
+      "idCode": null,
+      "name": "GUADALUPE",
+      "type": "city"
+    },
+    {
+      "id": "430",
+      "idParent": "261",
+      "idCode": null,
+      "name": "SAN CAYETANO ISTEPEQUE",
+      "type": "city"
+    },
+    {
+      "id": "431",
+      "idParent": "261",
+      "idCode": null,
+      "name": "SANTA CLARA",
+      "type": "city"
+    },
+    {
+      "id": "432",
+      "idParent": "261",
+      "idCode": null,
+      "name": "SANTO DOMINGO",
+      "type": "city"
+    },
+    {
+      "id": "433",
+      "idParent": "261",
+      "idCode": null,
+      "name": "SAN ESTEBAN CATARINA",
+      "type": "city"
+    },
+    {
+      "id": "434",
+      "idParent": "261",
+      "idCode": null,
+      "name": "SAN ILDEFONSO",
+      "type": "city"
+    },
+    {
+      "id": "435",
+      "idParent": "261",
+      "idCode": null,
+      "name": "SAN LORENZO",
+      "type": "city"
+    },
+    {
+      "id": "436",
+      "idParent": "261",
+      "idCode": null,
+      "name": "SAN SEBASTIAN",
+      "type": "city"
+    },
+    {
+      "id": "437",
+      "idParent": "261",
+      "idCode": null,
+      "name": "SAN VICENTE",
+      "type": "city"
+    },
+    {
+      "id": "438",
+      "idParent": "261",
+      "idCode": null,
+      "name": "TECOLUCA",
+      "type": "city"
+    },
+    {
+      "id": "439",
+      "idParent": "261",
+      "idCode": null,
+      "name": "TEPETITAN",
+      "type": "city"
+    },
+    {
+      "id": "440",
+      "idParent": "261",
+      "idCode": null,
+      "name": "VERAPAZ",
+      "type": "city"
+    },
+    {
+      "id": "441",
+      "idParent": "262",
+      "idCode": null,
+      "name": "ALEGRIA",
+      "type": "city"
+    },
+    {
+      "id": "442",
+      "idParent": "262",
+      "idCode": null,
+      "name": "BERLIN",
+      "type": "city"
+    },
+    {
+      "id": "443",
+      "idParent": "262",
+      "idCode": null,
+      "name": "CALIFORNIA",
+      "type": "city"
+    },
+    {
+      "id": "444",
+      "idParent": "262",
+      "idCode": null,
+      "name": "CONCEPCION BATRES",
+      "type": "city"
+    },
+    {
+      "id": "445",
+      "idParent": "262",
+      "idCode": null,
+      "name": "EL TRIUNFO",
+      "type": "city"
+    },
+    {
+      "id": "446",
+      "idParent": "262",
+      "idCode": null,
+      "name": "EREGUAYQUIN",
+      "type": "city"
+    },
+    {
+      "id": "447",
+      "idParent": "262",
+      "idCode": null,
+      "name": "ESTANZUELAS",
+      "type": "city"
+    },
+    {
+      "id": "448",
+      "idParent": "262",
+      "idCode": null,
+      "name": "JIQUILISCO",
+      "type": "city"
+    },
+    {
+      "id": "449",
+      "idParent": "262",
+      "idCode": null,
+      "name": "JUCUAPA",
+      "type": "city"
+    },
+    {
+      "id": "450",
+      "idParent": "262",
+      "idCode": null,
+      "name": "JUCUARAN",
+      "type": "city"
+    },
+    {
+      "id": "451",
+      "idParent": "262",
+      "idCode": null,
+      "name": "MERCEDES UMAÑA",
+      "type": "city"
+    },
+    {
+      "id": "452",
+      "idParent": "262",
+      "idCode": null,
+      "name": "NUEVA GRANADA",
+      "type": "city"
+    },
+    {
+      "id": "453",
+      "idParent": "262",
+      "idCode": null,
+      "name": "OZATLAN",
+      "type": "city"
+    },
+    {
+      "id": "454",
+      "idParent": "262",
+      "idCode": null,
+      "name": "PUERTO EL TRIUNFO",
+      "type": "city"
+    },
+    {
+      "id": "455",
+      "idParent": "262",
+      "idCode": null,
+      "name": "SAN AGUSTIN",
+      "type": "city"
+    },
+    {
+      "id": "456",
+      "idParent": "262",
+      "idCode": null,
+      "name": "SAN BUENAVENTURA",
+      "type": "city"
+    },
+    {
+      "id": "457",
+      "idParent": "262",
+      "idCode": null,
+      "name": "SAN DIONISIO",
+      "type": "city"
+    },
+    {
+      "id": "458",
+      "idParent": "262",
+      "idCode": null,
+      "name": "SANTA ELENA",
+      "type": "city"
+    },
+    {
+      "id": "459",
+      "idParent": "262",
+      "idCode": null,
+      "name": "SAN FRANCISCO JAVIER",
+      "type": "city"
+    },
+    {
+      "id": "460",
+      "idParent": "262",
+      "idCode": null,
+      "name": "SANTA MARIA",
+      "type": "city"
+    },
+    {
+      "id": "461",
+      "idParent": "262",
+      "idCode": null,
+      "name": "SANTIAGO DE MARIA",
+      "type": "city"
+    },
+    {
+      "id": "462",
+      "idParent": "262",
+      "idCode": null,
+      "name": "TECAPAN",
+      "type": "city"
+    },
+    {
+      "id": "463",
+      "idParent": "262",
+      "idCode": null,
+      "name": "USULUTAN",
+      "type": "city"
+    },
+    {
+      "id": "464",
+      "idParent": "263",
+      "idCode": null,
+      "name": "CAROLINA",
+      "type": "city"
+    },
+    {
+      "id": "465",
+      "idParent": "263",
+      "idCode": null,
+      "name": "CIUDAD BARRIOS",
+      "type": "city"
+    },
+    {
+      "id": "466",
+      "idParent": "263",
+      "idCode": null,
+      "name": "COMACARAN",
+      "type": "city"
+    },
+    {
+      "id": "467",
+      "idParent": "263",
+      "idCode": null,
+      "name": "CHAPELTIQUE",
+      "type": "city"
+    },
+    {
+      "id": "468",
+      "idParent": "263",
+      "idCode": null,
+      "name": "CHINAMECA",
+      "type": "city"
+    },
+    {
+      "id": "469",
+      "idParent": "263",
+      "idCode": null,
+      "name": "CHIRILAGUA",
+      "type": "city"
+    },
+    {
+      "id": "470",
+      "idParent": "263",
+      "idCode": null,
+      "name": "EL TRANSITO",
+      "type": "city"
+    },
+    {
+      "id": "471",
+      "idParent": "263",
+      "idCode": null,
+      "name": "LOLOTIQUE",
+      "type": "city"
+    },
+    {
+      "id": "472",
+      "idParent": "263",
+      "idCode": null,
+      "name": "MONCAGUA",
+      "type": "city"
+    },
+    {
+      "id": "473",
+      "idParent": "263",
+      "idCode": null,
+      "name": "NUEVA GUADALUPE",
+      "type": "city"
+    },
+    {
+      "id": "474",
+      "idParent": "263",
+      "idCode": null,
+      "name": "NUEVO EDEN DE SAN JUAN",
+      "type": "city"
+    },
+    {
+      "id": "475",
+      "idParent": "263",
+      "idCode": null,
+      "name": "QUELEPA",
+      "type": "city"
+    },
+    {
+      "id": "476",
+      "idParent": "263",
+      "idCode": null,
+      "name": "SAN ANTONIO DEL MOSCO",
+      "type": "city"
+    },
+    {
+      "id": "477",
+      "idParent": "263",
+      "idCode": null,
+      "name": "SAN GERARDO",
+      "type": "city"
+    },
+    {
+      "id": "478",
+      "idParent": "263",
+      "idCode": null,
+      "name": "SAN JORGE",
+      "type": "city"
+    },
+    {
+      "id": "479",
+      "idParent": "263",
+      "idCode": null,
+      "name": "SAN LUIS DE LA REINA",
+      "type": "city"
+    },
+    {
+      "id": "480",
+      "idParent": "263",
+      "idCode": null,
+      "name": "SAN MIGUEL",
+      "type": "city"
+    },
+    {
+      "id": "481",
+      "idParent": "263",
+      "idCode": null,
+      "name": "SAN RAFAEL ORIENTE",
+      "type": "city"
+    },
+    {
+      "id": "482",
+      "idParent": "263",
+      "idCode": null,
+      "name": "SESORI",
+      "type": "city"
+    },
+    {
+      "id": "483",
+      "idParent": "263",
+      "idCode": null,
+      "name": "ULUAZAPA",
+      "type": "city"
+    },
+    {
+      "id": "484",
+      "idParent": "264",
+      "idCode": null,
+      "name": "ARAMBALA",
+      "type": "city"
+    },
+    {
+      "id": "485",
+      "idParent": "264",
+      "idCode": null,
+      "name": "CACAOPERA",
+      "type": "city"
+    },
+    {
+      "id": "486",
+      "idParent": "264",
+      "idCode": null,
+      "name": "CORINTO",
+      "type": "city"
+    },
+    {
+      "id": "487",
+      "idParent": "264",
+      "idCode": null,
+      "name": "CHILANGA",
+      "type": "city"
+    },
+    {
+      "id": "488",
+      "idParent": "264",
+      "idCode": null,
+      "name": "DELICIAS DE CONCEPCION",
+      "type": "city"
+    },
+    {
+      "id": "489",
+      "idParent": "264",
+      "idCode": null,
+      "name": "EL DIVISADERO",
+      "type": "city"
+    },
+    {
+      "id": "490",
+      "idParent": "264",
+      "idCode": null,
+      "name": "EL ROSARIO",
+      "type": "city"
+    },
+    {
+      "id": "491",
+      "idParent": "264",
+      "idCode": null,
+      "name": "GUALOCOCTI",
+      "type": "city"
+    },
+    {
+      "id": "492",
+      "idParent": "264",
+      "idCode": null,
+      "name": "GUATAJIAGUA",
+      "type": "city"
+    },
+    {
+      "id": "493",
+      "idParent": "264",
+      "idCode": null,
+      "name": "JOATECA",
+      "type": "city"
+    },
+    {
+      "id": "494",
+      "idParent": "264",
+      "idCode": null,
+      "name": "JOCOAITIQUE",
+      "type": "city"
+    },
+    {
+      "id": "495",
+      "idParent": "264",
+      "idCode": null,
+      "name": "JOCORO",
+      "type": "city"
+    },
+    {
+      "id": "496",
+      "idParent": "264",
+      "idCode": null,
+      "name": "LOLOTIQUILLO",
+      "type": "city"
+    },
+    {
+      "id": "497",
+      "idParent": "264",
+      "idCode": null,
+      "name": "MEANGUERA",
+      "type": "city"
+    },
+    {
+      "id": "498",
+      "idParent": "264",
+      "idCode": null,
+      "name": "OSICALA",
+      "type": "city"
+    },
+    {
+      "id": "499",
+      "idParent": "264",
+      "idCode": null,
+      "name": "PERQUIN",
+      "type": "city"
+    },
+    {
+      "id": "500",
+      "idParent": "264",
+      "idCode": null,
+      "name": "SAN CARLOS",
+      "type": "city"
+    },
+    {
+      "id": "501",
+      "idParent": "264",
+      "idCode": null,
+      "name": "SAN FERNANDO",
+      "type": "city"
+    },
+    {
+      "id": "502",
+      "idParent": "264",
+      "idCode": null,
+      "name": "SAN FRANCISCO GOTERA",
+      "type": "city"
+    },
+    {
+      "id": "503",
+      "idParent": "264",
+      "idCode": null,
+      "name": "SAN ISIDRO",
+      "type": "city"
+    },
+    {
+      "id": "504",
+      "idParent": "264",
+      "idCode": null,
+      "name": "SAN SIMON",
+      "type": "city"
+    },
+    {
+      "id": "505",
+      "idParent": "264",
+      "idCode": null,
+      "name": "SENSEMBRA",
+      "type": "city"
+    },
+    {
+      "id": "506",
+      "idParent": "264",
+      "idCode": null,
+      "name": "SOCIEDAD",
+      "type": "city"
+    },
+    {
+      "id": "507",
+      "idParent": "264",
+      "idCode": null,
+      "name": "TOROLA",
+      "type": "city"
+    },
+    {
+      "id": "508",
+      "idParent": "264",
+      "idCode": null,
+      "name": "YAMABAL",
+      "type": "city"
+    },
+    {
+      "id": "509",
+      "idParent": "264",
+      "idCode": null,
+      "name": "YOLOAIQUIN",
+      "type": "city"
+    },
+    {
+      "id": "510",
+      "idParent": "265",
+      "idCode": null,
+      "name": "ANAMOROS",
+      "type": "city"
+    },
+    {
+      "id": "511",
+      "idParent": "265",
+      "idCode": null,
+      "name": "BOLIVAR",
+      "type": "city"
+    },
+    {
+      "id": "512",
+      "idParent": "265",
+      "idCode": null,
+      "name": "CONCEPCION DE ORIENTE",
+      "type": "city"
+    },
+    {
+      "id": "513",
+      "idParent": "265",
+      "idCode": null,
+      "name": "CONCHAGUA",
+      "type": "city"
+    },
+    {
+      "id": "514",
+      "idParent": "265",
+      "idCode": null,
+      "name": "EL CARMEN",
+      "type": "city"
+    },
+    {
+      "id": "515",
+      "idParent": "265",
+      "idCode": null,
+      "name": "EL SAUCE",
+      "type": "city"
+    },
+    {
+      "id": "516",
+      "idParent": "265",
+      "idCode": null,
+      "name": "INTIPUCA",
+      "type": "city"
+    },
+    {
+      "id": "517",
+      "idParent": "265",
+      "idCode": null,
+      "name": "LA UNION",
+      "type": "city"
+    },
+    {
+      "id": "518",
+      "idParent": "265",
+      "idCode": null,
+      "name": "LISLIQUE",
+      "type": "city"
+    },
+    {
+      "id": "519",
+      "idParent": "265",
+      "idCode": null,
+      "name": "MEANGUERA DEL GOLFO",
+      "type": "city"
+    },
+    {
+      "id": "520",
+      "idParent": "265",
+      "idCode": null,
+      "name": "NUEVA ESPARTA",
+      "type": "city"
+    },
+    {
+      "id": "521",
+      "idParent": "265",
+      "idCode": null,
+      "name": "PASAQUINA",
+      "type": "city"
+    },
+    {
+      "id": "522",
+      "idParent": "265",
+      "idCode": null,
+      "name": "POLOROS",
+      "type": "city"
+    },
+    {
+      "id": "523",
+      "idParent": "265",
+      "idCode": null,
+      "name": "SAN ALEJO",
+      "type": "city"
+    },
+    {
+      "id": "524",
+      "idParent": "265",
+      "idCode": null,
+      "name": "SAN JOSE LAS FUENTES",
+      "type": "city"
+    },
+    {
+      "id": "525",
+      "idParent": "265",
+      "idCode": null,
+      "name": "SANTA ROSA DE LIMA",
+      "type": "city"
+    },
+    {
+      "id": "526",
+      "idParent": "265",
+      "idCode": null,
+      "name": "YAYANTIQUE",
+      "type": "city"
+    },
+    {
+      "id": "527",
+      "idParent": "265",
+      "idCode": null,
+      "name": "YUCUAIQUIN",
+      "type": "city"
+    }
+  ]
+}
