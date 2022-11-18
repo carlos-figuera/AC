@@ -4,8 +4,8 @@
       <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-5.6.2-all/caches/transforms-2/files-2.1/02fb567606bcf022d9adf92490575926/jetified-security-crypto-1.1.0-alpha03/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-5.6.2-all/caches/transforms-2/files-2.1/02fb567606bcf022d9adf92490575926/jetified-security-crypto-1.1.0-alpha03/res" />
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-5.6.2-all/caches/transforms-2/files-2.1/02fb567606bcf022d9adf92490575926/jetified-security-crypto-1.1.0-alpha03/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b543c7712906fa4287838051946cc784/jetified-security-crypto-1.1.0-alpha03/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b543c7712906fa4287838051946cc784/jetified-security-crypto-1.1.0-alpha03/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02fb567606bcf022d9adf92490575926/jetified-security-crypto-1.1.0-alpha03/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02fb567606bcf022d9adf92490575926/jetified-security-crypto-1.1.0-alpha03/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

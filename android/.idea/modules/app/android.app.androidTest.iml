@@ -12,7 +12,7 @@
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../../build/app/generated/res/google-services/debug;file://$MODULE_DIR$/../../../../build/app/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/app/generated/res/resValues/debug" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../../build/app/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/app/generated/res/resValues/debug" />
         <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/app/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/app/generated/res/resValues/androidTest/debug" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
       </configuration>
@@ -30,15 +30,11 @@
     <content url="file://$MODULE_DIR$/../../../../build/app/generated/source/buildConfig/androidTest/debug" />
     <orderEntry type="jdk" jdkName="Android API 33 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="android.firebase_messaging.main" scope="TEST" />
-    <orderEntry type="module" module-name="android.firebase_core.main" scope="TEST" />
-    <orderEntry type="module" module-name="io.flutter.plugins.flutter_plugin_android_lifecycle.android.flutter_plugin_android_lifecycle.main" scope="TEST" />
-    <orderEntry type="module" module-name="com.tekartik.sqflite.android.sqflite.main" scope="TEST" />
-    <orderEntry type="module" module-name="io.flutter.plugins.pathprovider.android.path_provider_android.main" scope="TEST" />
-    <orderEntry type="module" module-name="io.flutter.plugins.imagepicker.android.image_picker_android.main" scope="TEST" />
-    <orderEntry type="module" module-name="com.it_nomads.fluttersecurestorage.android.flutter_secure_storage.main" scope="TEST" />
+    <orderEntry type="module" module-name="com.tekartik.sqflite.android.sqflite.main~1" scope="TEST" />
+    <orderEntry type="module" module-name="io.flutter.plugins.pathprovider.android.path_provider_android.main~1" scope="TEST" />
+    <orderEntry type="module" module-name="com.it_nomads.fluttersecurestorage.android.flutter_secure_storage.main~1" scope="TEST" />
     <orderEntry type="module" module-name="android.app.main" scope="TEST" />
-    <orderEntry type="library" scope="TEST" name="Gradle: C./Users/carlos/Desktop/proyectos/prueba/acexpress/build/app/intermediates/flutter/debug/libs.jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: C./Users/carlos/Desktop/proyectos/AC/build/app/intermediates/flutter/debug/libs.jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.flutter:armeabi_v7a_debug:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.flutter:arm64_v8a_debug:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.flutter:x86_64_debug:1.0.0-5c984c26ebc4a0a8897305d3c6bef70ced91090d" level="project" />
