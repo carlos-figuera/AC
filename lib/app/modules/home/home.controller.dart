@@ -57,6 +57,7 @@ final CanchasSQLite canchasSQLite= Get.find<CanchasSQLite>();
 bool typeOrder=true;
 
   order(){
+    typeOrder=!typeOrder;
     if(typeOrder)
     {
       //ordena la lista

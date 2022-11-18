@@ -23,25 +23,20 @@ class BodyHome extends StatelessWidget {
           title: Text('AC'.toUpperCase()),
         ),
         body: SafeArea(
-           child: ListPlateWidget()  ,
+          child: ListPlateWidget(),
         ),
-
-
         drawer: MenuDrawer(),
         floatingActionButton: FloatingActionButton(
           backgroundColor: AppColors.kPrimaryColor,
           child: Icon(Icons.add),
-          onPressed:(){
-           // _.canchasSQLite.getReservationSearchSQLite();
-        _.createReservation();
-         // _.getDataTime();
-          }  ,
-
-        ) ,
-
+          onPressed: () {
+            // _.canchasSQLite.getReservationSearchSQLite();
+            _.createReservation();
+            // _.getDataTime();
+          },
+        ),
         floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
         bottomNavigationBar: BottomAppBar(
-
           shape: CircularNotchedRectangle(),
           notchMargin: 10,
           child: Container(
@@ -55,11 +50,17 @@ class BodyHome extends StatelessWidget {
                     MaterialButton(
                       minWidth: 40,
                       onPressed: () {
-
+                        //Get.back();
                       },
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
-                        children: [Icon(Icons.search,color: AppColors.kPrimaryColor,), Text('Buscar',style:AppTextStyles.texButonBar )],
+                        children: [
+                          Icon(
+                            Icons.search,
+                            color: AppColors.kPrimaryColor,
+                          ),
+                          Text('Buscar', style: AppTextStyles.texButonBar)
+                        ],
                       ),
                     ),
                   ],
@@ -69,22 +70,28 @@ class BodyHome extends StatelessWidget {
                   children: [
                     MaterialButton(
                       minWidth: 40,
-                      onPressed: (){
+                      onPressed: () {
                         _.order();
                       },
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
-                        children: [Icon( _.typeOrder? Icons.arrow_circle_up:Icons.arrow_circle_down,color: AppColors.kPrimaryColor,), Text('Ordenar',style:AppTextStyles.texButonBar )],
+                        children: [
+                          Icon(
+                            _.typeOrder
+                                ? Icons.arrow_circle_up
+                                : Icons.arrow_circle_down,
+                            color: AppColors.kPrimaryColor,
+                          ),
+                          Text('Ordenar', style: AppTextStyles.texButonBar)
+                        ],
                       ),
                     ),
                   ],
                 ),
               ],
             ),
-          )  ,
-
+          ),
         ),
-
       ),
     );
   }

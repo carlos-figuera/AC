@@ -51,6 +51,28 @@ class CreateReservation extends StatelessWidget {
                               Text(
                                 "Agendar una Cancha",
                                 style: AppTextStyles.titlebottomSheet,
+                              ),    SizedBox(
+                                height: Responsive.of().hd(por: 3),
+                              ),
+
+                              Padding(
+                                padding: EdgeInsets.symmetric(horizontal: 30),
+                                child: Text(
+                                  "Agenda un cancha hasta 15 dias posterior de la fecha actual.",
+                                  style: AppTextStyles.subTitleBottomSheet,
+                                  textAlign:TextAlign.justify ,
+                                ),
+                              ),
+                              SizedBox(
+                                height: Responsive.of().hd(por: 1),
+                              ),
+                              Padding(
+                                padding: EdgeInsets.symmetric(horizontal: 30),
+                                child: Text(
+                                  "Recueda que cada cancha tiene un limite maximo de 3 agendamientos en un dia especifico.",
+                                  style: AppTextStyles.subTitleBottomSheet,
+                                  textAlign:TextAlign.justify ,
+                                ),
                               ),
                               SizedBox(
                                 height: Responsive.of().hd(por: 1),

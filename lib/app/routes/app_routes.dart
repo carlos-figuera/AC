@@ -7,11 +7,7 @@ class AppRoutes {
   static const HOME = "/home";
 
 
-  //Cer Dtalles de un carro
-  static const DetailCar = "/detail_car";
 
-
-  static const UPDATE_COMPANIES = "/update_company";
 
 
 }

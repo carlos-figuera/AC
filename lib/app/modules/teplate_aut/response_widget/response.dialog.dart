@@ -1,5 +1,4 @@
-import 'package:app_hazconta/app/data/repository/local/local_auth_repository.dart';
-import 'package:app_hazconta/app/modules/teplate_aut/response_widget/response.dialog.item.widget.dart';
+ import 'package:app_hazconta/app/modules/teplate_aut/response_widget/response.dialog.item.widget.dart';
 import 'package:app_hazconta/app/routes/app_routes.dart';
 import 'package:app_hazconta/app/theme/appColors.dart';
 import 'package:flutter/material.dart';
@@ -40,10 +39,7 @@ responseDialog({
             estadoConexion: estadoConexion,
             typeResponse:2,
             getData: () {
-              final LocalAuthRepository _localAuthRepository = Get.find<LocalAuthRepository>();
 
-              _localAuthRepository.clearSession();
-              getData!();
               Get.offAndToNamed(AppRoutes.LOGIN);
             },
             pathImage: "assets/icons/my-password-pana.svg",

@@ -1,8 +1,6 @@
-import 'package:app_hazconta/app/data/providers/local/local_auth.dart';
 
 import 'package:app_hazconta/app/data/providers/local/sqlite/db.services.dart';
-import 'package:app_hazconta/app/data/repository/local/local_auth_repository.dart';
- import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+  import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:get/get.dart';
 import 'package:app_hazconta/app/data/providers/remote/bestWeather_api.dart';
 
@@ -23,11 +21,6 @@ class DependencyInjection {
     //******************************
     // Local Providers
     //******************************
-
-    Get.lazyPut<LocalAuth>(
-      () => LocalAuth(),
-      fenix: true,
-    );
 
 
 
@@ -59,10 +52,7 @@ class DependencyInjection {
       () => BestWeatherRepository(),
       fenix: true,
     );
-    Get.lazyPut<LocalAuthRepository>(
-      () => LocalAuthRepository(),
-      fenix: true,
-    );
+
 
 
   }
