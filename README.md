@@ -15,7 +15,7 @@ La version de flutter utlizada es:
     url: https://bestweather.p.rapidapi.com/weather/11.0124023,-63.8144785
     
     headers:{
-    'X-RapidAPI-Key':'2ccf752d46msh690196a654d57bcp1d2735jsn371fec74edfb',
+    'X-RapidAPI-Key':'110118f3c3msh6e52e428b6768a8p17353djsn89b9ad7fc888',
     'X-RapidAPI-Host':'bestweather.p.rapidapi.com'
     }
  
