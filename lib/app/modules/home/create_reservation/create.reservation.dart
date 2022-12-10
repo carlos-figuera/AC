@@ -15,7 +15,7 @@ import 'create.reservation.controller.dart';
 
 class CreateReservation extends StatelessWidget {
   final int type;
-  List<Bestweather> data;
+ final  List<Bestweather> data;
 
   CreateReservation({required this.type, required this.data});
 
@@ -151,7 +151,7 @@ class CreateReservation extends StatelessWidget {
                                     children: [
                                       TextPlateWidget(
                                           name: "Probabilidad de lluvia: ",
-                                          value: _.precipprob),
+                                          value: _.precipprob  +" %"),
                                     ],
                                   ),
                                 ),

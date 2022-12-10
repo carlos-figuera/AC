@@ -66,9 +66,9 @@ class CanchasSQLite {
     // conecto la base de datos
     Database db = await _dbSQlite.init();
     // estructuro la consulta
-    String sql = """
+   /* String sql = """
     SELECT * FROM canchas WHERE typeCancha == CANCHA_A AND date == 2022-11-18
-    """;
+    """;*/
 
     // hago la consulta a la base
     final result = await db.rawQuery('SELECT * FROM canchas WHERE typeCancha=? AND date=?', ['$typeCancha','$date']);

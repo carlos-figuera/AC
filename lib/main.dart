@@ -3,8 +3,8 @@ import 'package:app_hazconta/app/utils/dependency_injections.dart';
 import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'app/modules/login/login_binding.dart';
-import 'app/modules/login/login_page.dart';
+import 'app/modules/home/home.binding.dart';
+import 'app/modules/home/home.widget.dart';
 
 void main() async {
 
@@ -31,8 +31,8 @@ class MyApp extends StatelessWidget {
           Theme.of(context).textTheme,
         ),
       ),
-      home: Login(),
-      initialBinding: LoginBinding(),
+      home: HomePage(),
+      initialBinding: HomeBinding(),
       getPages: AppPages.pages,
     ) ;
   }

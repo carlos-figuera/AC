@@ -7,10 +7,10 @@ import '../../models/Bestweather/Bestweather.dart';
 class BestWeatherApi {
  Future< List<Bestweather>> getWeather() async {
     var url = Uri.parse(
-        'https://bestweather.p.rapidapi.com/weather/11.0124023,-63.8144785');
+        'https://bestweather.p.rapidapi.com/weather/11.0124023,-63.8144785?unitGroup=us');
     // Await the http get response, then decode the json-formatted response.
     var response = await http.get(url, headers: {
-      'X-RapidAPI-Key': '2ccf752d46msh690196a654d57bcp1d2735jsn371fec74edfb',
+      'X-RapidAPI-Key': '110118f3c3msh6e52e428b6768a8p17353djsn89b9ad7fc888',
       'X-RapidAPI-Host': 'bestweather.p.rapidapi.com'
     });
     if (response.statusCode == 200) {

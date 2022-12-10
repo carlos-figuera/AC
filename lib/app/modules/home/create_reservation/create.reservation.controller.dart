@@ -71,6 +71,8 @@ class CreateReservationController extends GetxController {
     if (formKey.currentState!.validate()) {
       if (validateCancha()) {
         if (await validateCanchaCount( cancha: typeCancha,date: fromDate )) {
+          print(" lluvia  "
+              "$precipprob");
         ReservationDti item = ReservationDti(
             id: 0,
             date: fromDate,
@@ -149,7 +151,7 @@ class CreateReservationController extends GetxController {
   // -----------------------------------------------
   void setFromDateFilter(
       {required String text, required List<Bestweather> data}) {
-    fromDate = text!;
+    fromDate = text;
     print(fromDate);
     setPrecipProb(date: text, data: data);
     updateUi();

@@ -29,7 +29,7 @@ class DeleteReservationController extends GetxController {
 
   deleteReservation(ReservationDti dti) async {
     int resul = await canchasSQLite.deleteReservationSQLite(item: dti);
-    print('Despues de eliminar ${resul}');
+
     homeController.getReservation();
 
     if (resul == 1) {
